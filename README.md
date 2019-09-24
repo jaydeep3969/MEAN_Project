@@ -1,7 +1,7 @@
 # MEAN_Project
 Beginner Level MEAN Task
-*Task Information in T/ask Information.docx
-Outputs are in /Putputs*
+- Task Information in Task Information.docx
+- Outputs are in /Outputs
 
 **Employee Management**
 > Backend : Node.js                 
