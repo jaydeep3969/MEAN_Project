@@ -1,6 +1,6 @@
 # MEAN_Project
 Beginner Level MEAN Task
-- Task Information in Task Information.docx
+- Task Information in /Task Information.docx
 - Outputs are in /Outputs
 
 **Employee Management**
