@@ -25,7 +25,7 @@ API in Node.js (API-Folder)
 	
 	
 -------------------------------------------------------------------------------------------
-FrontEnd in Angualar (EmployeeManagement-Folder)
+FrontEnd in Angular (EmployeeManagement-Folder)
 -------------------------------------------------------------------------------------------
 
 - /src/app/__components__ 
