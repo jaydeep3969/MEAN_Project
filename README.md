@@ -1,13 +1,10 @@
 # MEAN_Project
 Beginner Level MEAN Task
 
-| ++++++ Employee Management ++++++ |
-|___________________________________|
-|                                   |
-|- Backend : Node.js                | 
-|- Database : MongoDB               |
-|- Frontend : Angular7              |
-|___________________________________|
+**Employee Management**
+> Backend : Node.js                 
+> Database : MongoDB               
+> Frontend : Angular7              
 
 -------------------------------------------------------------------------------------------
 API in Node.js (API-Folder)
