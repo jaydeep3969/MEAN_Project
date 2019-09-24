@@ -28,10 +28,10 @@ API in Node.js (API-Folder)
 -------------------------------------------------------------------------------------------
 FrontEnd in Angualar (EmployeeManagement-Folder)
 -------------------------------------------------------------------------------------------
-/src
-/app/__components__ 
+
+- /src/app/__components__ 
 	-> All defined components
-/models/__.ts
+- /src/models/__.ts
 	-> To map the objects to be used to interact with API
-/service/__.service.ts
+- /src/service/__.service.ts
 	-> Services to be used to interact with API
