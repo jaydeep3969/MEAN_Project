@@ -6,7 +6,7 @@ Beginner Level MEAN Task
 **Employee Management**
 > Backend : Node.js                 
 > Database : MongoDB               
-> Frontend : Angular7              
+> Frontend : Angular7 | Primeng           
 
 -------------------------------------------------------------------------------------------
 API in Node.js (API-Folder)
