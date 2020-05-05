@@ -1,5 +1,5 @@
-# MEAN_Project
-Beginner Level MEAN Task
+# MEAN-POC
+Beginner Level MEAN POC
 - Task Information in /Task Information.docx
 - Outputs are in /Outputs
 
@@ -28,7 +28,7 @@ API in Node.js (API-Folder)
 FrontEnd in Angular (EmployeeManagement-Folder)
 -------------------------------------------------------------------------------------------
 
-- /src/app/__components__ 
+- /src/app/\_\_components__ 
 	-> All defined components
 - /src/models/__.ts
 	-> To map the objects to be used to interact with API
